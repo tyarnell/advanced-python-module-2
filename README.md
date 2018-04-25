@@ -1,1 +1,3 @@
-# intel_module_2
+Intel Class: "Advanced Python Programming for Everybody"
+
+Module 2 Source Code
